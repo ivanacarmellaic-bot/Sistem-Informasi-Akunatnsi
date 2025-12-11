@@ -1,0 +1,5 @@
+{
+  "name": "Credit Purchase Flow",
+  "description": "A role-based simulation of a Credit Purchase System (Sistem Pembelian Kredit) featuring Purchasing, Warehouse, Finance, and Accounting workflows with AI-powered auditing.",
+  "requestFramePermissions": []
+}
